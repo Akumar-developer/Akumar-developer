@@ -6,7 +6,7 @@ and how applications are deployed and managed.
 🔧 Tech I'm learning:
 - Backend: Node.js, Express
 - Database: MongoDB / PostgreSQL (Basics)
-- DevOps: Git, GitHub, Docker (Beginner), Linux
+- DevOps: Linux , Git, GitHub, Docker , Kubernetes 
 - Tools: Postman, VS Code
 
 🎯 Current Goals:
