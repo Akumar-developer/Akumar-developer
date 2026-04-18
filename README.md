@@ -1,4 +1,4 @@
-Hi 👋 I'm a Backend & DevOps beginner
+Hi  I'm a Backend & DevOps beginner
 
 I'm currently focused on learning how backend systems work
 and how applications are deployed and managed.
@@ -6,7 +6,7 @@ and how applications are deployed and managed.
 🔧 Tech I'm learning:
 - Backend: Node.js, Express
 - Database: MongoDB / PostgreSQL (Basics)
-- DevOps: Linux , Git, GitHub, Docker , Kubernetes 
+- DevOps: Linux , Git, GitHub Actions, Docker , Kubernetes , Terraform 
 - Tools: Postman, VS Code
 
 🎯 Current Goals:
