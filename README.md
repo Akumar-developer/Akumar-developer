@@ -1,40 +1,11 @@
-Hi  I'm a Backend & DevOps beginner
+DevOps & Cloud Engineer | B.Tech AI & ML Student
 
-I'm currently focused on learning how backend systems work
-and how applications are deployed and managed.
+Building and automating cloud infrastructure with AWS, Terraform, Docker, and GitHub Actions.
 
-🔧 Tech I'm learning:
-- Backend: Node.js, Express
-- Database: MongoDB / PostgreSQL (Basics)
-- DevOps: Linux , Git, GitHub Actions, Docker , Kubernetes , Terraform 
-- Tools: Postman, VS Code
+Interested in Infrastructure as Code, CI/CD, Cloud Security, Containerization, and Observability.
 
-🎯 Current Goals:
-- Build REST APIs
-- Understand authentication & databases
-- Learn Docker and basic CI/CD
-- Contribute to open source (small fixes & docs)
+Linux | AWS | Docker | Kubernetes | Terraform | Python | GitHub Actions | Ansible
 
-📈 What I'm doing:
-- Building small backend projects
-- Practicing clean code & Git workflows
-- Exploring DevOps fundamentals step by step
+I believe in solving problems at their root, automating repetitive tasks, and building reliable systems.
 
-📫 Let's connect:
-- Open to collaboration & learning opportunities
-
-
-<!--
-**Akumar-developer/Akumar-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning by building. Improving through troubleshooting. Growing through open source.
